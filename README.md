@@ -4,6 +4,8 @@ Collection of LLMs I've made
 ## N-gram Models
 An **language model** is an ML model that predicts upcoming words. **Large language models** are models that are trained to predict words. An **n-gram** is a sequence of words: A **bigram** is a sequence of two words, a **trigram** is a sequence of three words, and so on. In the context of an n-gram model, **n-gram** also refers to the probabilistic model that predicts words based on the previous n-1 words.
 
+For further information about N-gram models and LLMs in general, google has a nice page on it: https://developers.google.com/machine-learning/crash-course/llm.
+
 ### PyTorch virtual environment and notes
 
 Activate the venv (PowerShell):
