@@ -24,14 +24,18 @@ Run the Jupyter notebook (in VS Code or Jupyter):
 - Run the "PyTorch device check" cell to verify CUDA and basic tensor ops.
 
 ### Bigram Model Project
+
 #### Overview
 Predicts a sequence of 2 words, using character-level tokenizers. I use "Alice's Adventures in Wonderland" as my text/context for the model.
+
 #### Dependencies
 Project Python dependencies:
 - torch==2.10.0
+
 #### Extra
 Link to obtain texts: https://www.gutenberg.org/
 **Disclaimer**: For the purposes of building the models, once I downloaded a text, I had to edit it, remove the licensing, and save a copy of this edited version, which I then used for the language models. I do not wish to profit off the texts in any way or distribute these texts, I just wish to use them for the purpose of training my model. It's important to read licenses when you borrow texts, even for purely education purposes such as these.
+
 ## Transformers and GPTs
 
 
